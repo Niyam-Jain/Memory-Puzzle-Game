@@ -49,6 +49,4 @@ Here's an example of how to play the memory puzzle game:
 
 Contributions are welcome! If you have any improvements or new features to add, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
